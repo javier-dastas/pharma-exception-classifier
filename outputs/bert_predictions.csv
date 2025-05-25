@@ -1,0 +1,1001 @@
+exception_text,label,label_encoded,predicted_label,predicted_label_name
+Motor failure in unit 266,Pressure,5,3,Motor
+Pressure system malfunction at node 596,Pressure,5,5,Pressure
+Pressure dropped below threshold in chamber 679,Operator,4,5,Pressure
+Unexpected particles found in batch 336,Contamination,1,1,Contamination
+Unexpected sensor spike in process 370,Sensor,7,7,Sensor
+Production halted due to jam on line 530,Production,6,6,Production
+Motor failure in unit 980,Motor,3,3,Motor
+Operator failed to document action in batch 588,Operator,4,4,Operator
+Pressure dropped below threshold in chamber 955,Pressure,5,5,Pressure
+Biological contamination reported in lab 837,Contamination,1,1,Contamination
+Inventory mismatch reported at warehouse 604,Logistics,2,2,Logistics
+Calibration error detected in device 300,Calibration,0,0,Calibration
+Pressure system malfunction at node 45,Pressure,5,5,Pressure
+Inconsistent pressure readings in valve 346,Pressure,5,5,Pressure
+Motor failure in unit 204,Motor,3,3,Motor
+Operator failed to document action in batch 616,Operator,4,4,Operator
+Unexpected motor shutdown on machine 341,Motor,3,3,Motor
+Specification limits breached at point 589,Specification,8,8,Specification
+Pressure dropped below threshold in chamber 777,Pressure,5,5,Pressure
+Motor overheating issue reported at 761,Motor,3,3,Motor
+System diagnostics failed at stage 860,System,9,9,System
+Pressure system malfunction at node 664,Pressure,5,5,Pressure
+Delay in raw material delivery 861,Logistics,2,2,Logistics
+Contaminated material detected in lot 896,Contamination,1,1,Contamination
+Pressure dropped below threshold in chamber 197,Pressure,5,5,Pressure
+Incorrect calibration values on test 999,Calibration,0,0,Calibration
+Sensor data not recorded for line 858,Sensor,7,7,Sensor
+Delay in raw material delivery 146,Logistics,2,2,Logistics
+Motor failure in unit 766,Motor,3,3,Motor
+Operator failed to document action in batch 93,Operator,4,4,Operator
+Operator failed to document action in batch 276,Operator,4,4,Operator
+Temperature sensor failed during batch 202,Sensor,7,7,Sensor
+Incorrect shipment logged for delivery 507,Logistics,2,2,Logistics
+Unexpected sensor spike in process 824,Sensor,7,7,Sensor
+Pressure dropped below threshold in chamber 813,Pressure,5,5,Pressure
+Manual override by operator caused error in 773,Operator,4,4,Operator
+Operator missed critical step in process 750,Operator,4,4,Operator
+Manual override by operator caused error in 975,Operator,4,4,Operator
+Incorrect shipment logged for delivery 86,Logistics,2,2,Logistics
+Contaminated material detected in lot 966,Contamination,1,1,Contamination
+System diagnostics failed at stage 322,System,9,9,System
+Irregular production flow at station 131,Production,6,6,Production
+Delay in raw material delivery 446,Logistics,2,2,Logistics
+Incorrect calibration values on test 313,Calibration,0,0,Calibration
+Biological contamination reported in lab 894,Contamination,1,1,Contamination
+Software error in automated control system 617,System,9,9,System
+Temperature sensor failed during batch 659,Sensor,7,7,Sensor
+Pressure system malfunction at node 7,Pressure,5,5,Pressure
+Production halted due to jam on line 893,Production,6,6,Production
+Irregular production flow at station 671,Production,6,6,Production
+Motor overheating issue reported at 442,Motor,3,3,Motor
+Production halted due to jam on line 790,Production,6,6,Production
+Incorrect shipment logged for delivery 987,Logistics,2,2,Logistics
+Deviation from specification recorded in batch 347,Specification,8,8,Specification
+Material outside specification detected in 114,Specification,8,8,Specification
+Specification limits breached at point 882,Specification,8,8,Specification
+Pressure system malfunction at node 841,Pressure,5,5,Pressure
+Incorrect shipment logged for delivery 518,Logistics,2,2,Logistics
+Pressure system malfunction at node 145,Pressure,5,5,Pressure
+Unexpected motor shutdown on machine 194,Motor,3,3,Motor
+System crash during data logging 704,System,9,9,System
+Motor failure in unit 862,Motor,3,3,Motor
+Irregular production flow at station 725,Production,6,6,Production
+Sensor data not recorded for line 167,Sensor,7,7,Sensor
+Inconsistent pressure readings in valve 745,Pressure,5,5,Pressure
+Sensor data not recorded for line 337,Sensor,7,7,Sensor
+Operator missed critical step in process 89,Operator,4,4,Operator
+Production halted due to jam on line 70,Production,6,6,Production
+Temperature sensor failed during batch 643,Sensor,7,7,Sensor
+Irregular production flow at station 100,Production,6,6,Production
+Contaminated material detected in lot 979,Contamination,1,1,Contamination
+Specification limits breached at point 33,Specification,8,8,Specification
+Incorrect calibration values on test 604,Calibration,0,0,Calibration
+Production delay in shift 704,Production,6,6,Production
+System crash during data logging 278,System,9,9,System
+Inconsistent pressure readings in valve 529,Pressure,5,5,Pressure
+Pressure system malfunction at node 210,Pressure,5,5,Pressure
+Production halted due to jam on line 727,Production,6,6,Production
+Operator failed to document action in batch 351,Operator,4,4,Operator
+Temperature sensor failed during batch 287,Sensor,7,7,Sensor
+Operator missed critical step in process 840,Operator,4,4,Operator
+Motor failure in unit 664,Motor,3,3,Motor
+Inventory mismatch reported at warehouse 1,Logistics,2,2,Logistics
+Manual override by operator caused error in 416,Operator,4,4,Operator
+Manual override by operator caused error in 838,Operator,4,4,Operator
+System crash during data logging 406,System,9,9,System
+Motor failure in unit 985,Motor,3,3,Motor
+Temperature sensor failed during batch 945,Sensor,7,7,Sensor
+Delay in raw material delivery 728,Logistics,2,2,Logistics
+Contaminated material detected in lot 523,Contamination,1,1,Contamination
+Incorrect shipment logged for delivery 603,Logistics,2,2,Logistics
+Specification limits breached at point 439,Specification,8,8,Specification
+Contaminated material detected in lot 635,Contamination,1,1,Contamination
+Biological contamination reported in lab 694,Contamination,1,1,Contamination
+Operator failed to document action in batch 948,Operator,4,4,Operator
+Delay in raw material delivery 189,Logistics,2,2,Logistics
+Incorrect shipment logged for delivery 506,Logistics,2,2,Logistics
+Pressure dropped below threshold in chamber 843,Pressure,5,5,Pressure
+Calibration error detected in device 593,Calibration,0,0,Calibration
+Software error in automated control system 362,System,9,9,System
+Incorrect calibration values on test 65,Calibration,0,0,Calibration
+Production halted due to jam on line 420,Production,6,6,Production
+System diagnostics failed at stage 191,System,9,9,System
+Incorrect calibration values on test 944,Calibration,0,0,Calibration
+Operator missed critical step in process 124,Operator,4,4,Operator
+Inventory mismatch reported at warehouse 263,Logistics,2,2,Logistics
+Software error in automated control system 198,System,9,9,System
+Incorrect shipment logged for delivery 832,Logistics,2,2,Logistics
+Operator missed critical step in process 677,Operator,4,4,Operator
+Calibration error detected in device 459,Calibration,0,0,Calibration
+Motor overheating issue reported at 229,Motor,3,3,Motor
+Calibration overdue for instrument 907,Calibration,0,0,Calibration
+Unexpected sensor spike in process 68,Sensor,7,7,Sensor
+Calibration error detected in device 768,Calibration,0,0,Calibration
+Unexpected motor shutdown on machine 402,Motor,3,3,Motor
+Inconsistent pressure readings in valve 530,Pressure,5,5,Pressure
+Unexpected sensor spike in process 920,Sensor,7,7,Sensor
+Unexpected motor shutdown on machine 922,Motor,3,3,Motor
+Production halted due to jam on line 815,Production,6,6,Production
+Delay in raw material delivery 845,Logistics,2,2,Logistics
+System diagnostics failed at stage 840,System,9,9,System
+Incorrect calibration values on test 867,Calibration,0,0,Calibration
+Pressure system malfunction at node 189,Pressure,5,5,Pressure
+Temperature sensor failed during batch 640,Sensor,7,7,Sensor
+Biological contamination reported in lab 926,Contamination,1,1,Contamination
+Software error in automated control system 385,System,9,9,System
+Calibration error detected in device 998,Calibration,0,0,Calibration
+Pressure system malfunction at node 804,Pressure,5,5,Pressure
+Motor failure in unit 985,Motor,3,3,Motor
+Operator failed to document action in batch 203,Operator,4,4,Operator
+Biological contamination reported in lab 911,Contamination,1,1,Contamination
+Irregular production flow at station 906,Production,6,6,Production
+Incorrect shipment logged for delivery 816,Logistics,2,2,Logistics
+Specification limits breached at point 838,Specification,8,8,Specification
+Inventory mismatch reported at warehouse 419,Logistics,2,2,Logistics
+Calibration overdue for instrument 22,Calibration,0,0,Calibration
+Inconsistent pressure readings in valve 303,Pressure,5,5,Pressure
+Material outside specification detected in 211,Specification,8,8,Specification
+Incorrect calibration values on test 978,Calibration,0,0,Calibration
+Inventory mismatch reported at warehouse 132,Logistics,2,2,Logistics
+Motor overheating issue reported at 209,Motor,3,3,Motor
+Motor overheating issue reported at 928,Motor,3,3,Motor
+Delay in raw material delivery 877,Logistics,2,2,Logistics
+Motor overheating issue reported at 217,Motor,3,3,Motor
+Operator failed to document action in batch 113,Operator,4,4,Operator
+System crash during data logging 993,System,9,9,System
+Inconsistent pressure readings in valve 244,Pressure,5,5,Pressure
+System crash during data logging 497,System,9,9,System
+Unexpected particles found in batch 235,Contamination,1,1,Contamination
+Sensor data not recorded for line 975,Sensor,7,7,Sensor
+Material outside specification detected in 540,Specification,8,8,Specification
+Calibration error detected in device 313,Calibration,0,0,Calibration
+System crash during data logging 668,System,9,9,System
+Unexpected sensor spike in process 165,Sensor,7,7,Sensor
+Production delay in shift 426,Production,6,6,Production
+System diagnostics failed at stage 540,System,9,9,System
+Calibration error detected in device 285,Calibration,0,0,Calibration
+Deviation from specification recorded in batch 80,Specification,8,8,Specification
+Deviation from specification recorded in batch 429,Specification,8,8,Specification
+Calibration error detected in device 519,Calibration,0,0,Calibration
+Unexpected sensor spike in process 835,Sensor,7,7,Sensor
+Delay in raw material delivery 761,Logistics,2,2,Logistics
+Software error in automated control system 211,System,9,9,System
+Unexpected particles found in batch 851,Contamination,1,1,Contamination
+Temperature sensor failed during batch 248,Sensor,7,7,Sensor
+Incorrect calibration values on test 33,Calibration,0,0,Calibration
+Manual override by operator caused error in 9,Operator,4,4,Operator
+Irregular production flow at station 917,Production,6,6,Production
+Pressure dropped below threshold in chamber 834,Pressure,5,5,Pressure
+Pressure system malfunction at node 467,Pressure,5,5,Pressure
+Incorrect calibration values on test 342,Calibration,0,0,Calibration
+Inconsistent pressure readings in valve 666,Pressure,5,5,Pressure
+Pressure dropped below threshold in chamber 902,Pressure,5,5,Pressure
+Operator missed critical step in process 501,Operator,4,4,Operator
+Calibration error detected in device 144,Calibration,0,0,Calibration
+Production delay in shift 991,Production,6,6,Production
+System diagnostics failed at stage 311,System,9,9,System
+Delay in raw material delivery 482,Logistics,2,2,Logistics
+Production delay in shift 948,Production,6,6,Production
+Incorrect shipment logged for delivery 730,Logistics,2,2,Logistics
+Irregular production flow at station 502,Production,6,6,Production
+Production delay in shift 733,Production,6,6,Production
+Unexpected motor shutdown on machine 273,Motor,3,3,Motor
+Specification limits breached at point 946,Specification,8,8,Specification
+Pressure dropped below threshold in chamber 938,Pressure,5,5,Pressure
+Motor failure in unit 834,Motor,3,3,Motor
+Contaminated material detected in lot 556,Contamination,1,1,Contamination
+Irregular production flow at station 295,Production,6,6,Production
+Temperature sensor failed during batch 376,Sensor,7,7,Sensor
+System crash during data logging 110,System,9,9,System
+Delay in raw material delivery 114,Logistics,2,2,Logistics
+Sensor data not recorded for line 212,Sensor,7,7,Sensor
+Pressure dropped below threshold in chamber 878,Pressure,5,5,Pressure
+Delay in raw material delivery 322,Logistics,2,2,Logistics
+Delay in raw material delivery 760,Logistics,2,2,Logistics
+Motor overheating issue reported at 713,Motor,3,3,Motor
+Motor overheating issue reported at 103,Motor,3,3,Motor
+Inventory mismatch reported at warehouse 405,Logistics,2,2,Logistics
+Unexpected motor shutdown on machine 529,Motor,3,3,Motor
+Motor failure in unit 36,Motor,3,3,Motor
+Inconsistent pressure readings in valve 683,Pressure,5,5,Pressure
+Irregular production flow at station 448,Production,6,6,Production
+Pressure system malfunction at node 783,Pressure,5,5,Pressure
+Irregular production flow at station 866,Production,6,6,Production
+Incorrect calibration values on test 310,Calibration,0,0,Calibration
+Production halted due to jam on line 4,Production,6,6,Production
+Unexpected motor shutdown on machine 314,Motor,3,3,Motor
+Specification limits breached at point 602,Specification,8,8,Specification
+Material outside specification detected in 569,Specification,8,8,Specification
+Contaminated material detected in lot 144,Contamination,1,1,Contamination
+Material outside specification detected in 828,Specification,8,8,Specification
+Manual override by operator caused error in 93,Operator,4,4,Operator
+Deviation from specification recorded in batch 2,Specification,8,8,Specification
+Unexpected motor shutdown on machine 740,Motor,3,3,Motor
+Inconsistent pressure readings in valve 67,Pressure,5,5,Pressure
+Pressure system malfunction at node 927,Pressure,5,5,Pressure
+Sensor data not recorded for line 770,Sensor,7,7,Sensor
+Unexpected particles found in batch 684,Contamination,1,1,Contamination
+Deviation from specification recorded in batch 115,Specification,8,8,Specification
+Calibration overdue for instrument 501,Calibration,0,0,Calibration
+System crash during data logging 578,System,9,9,System
+Unexpected particles found in batch 370,Contamination,1,1,Contamination
+Software error in automated control system 484,System,9,9,System
+Operator missed critical step in process 659,Operator,4,4,Operator
+Production delay in shift 335,Production,6,6,Production
+Inventory mismatch reported at warehouse 395,Logistics,2,2,Logistics
+Operator missed critical step in process 212,Operator,4,4,Operator
+Material outside specification detected in 916,Specification,8,8,Specification
+Biological contamination reported in lab 731,Contamination,1,1,Contamination
+Specification limits breached at point 253,Specification,8,8,Specification
+Manual override by operator caused error in 208,Operator,4,4,Operator
+Deviation from specification recorded in batch 33,Specification,8,8,Specification
+System crash during data logging 360,System,9,9,System
+Incorrect calibration values on test 255,Calibration,0,0,Calibration
+Contaminated material detected in lot 9,Contamination,1,1,Contamination
+Unexpected motor shutdown on machine 540,Motor,3,3,Motor
+Motor overheating issue reported at 870,Motor,3,3,Motor
+Unexpected particles found in batch 74,Contamination,1,1,Contamination
+Irregular production flow at station 886,Production,6,6,Production
+Motor failure in unit 169,Motor,3,3,Motor
+Motor failure in unit 646,Motor,3,3,Motor
+Sensor data not recorded for line 121,Sensor,7,7,Sensor
+Manual override by operator caused error in 334,Operator,4,4,Operator
+Motor failure in unit 916,Motor,3,3,Motor
+Calibration overdue for instrument 651,Calibration,0,0,Calibration
+Specification limits breached at point 676,Specification,8,8,Specification
+Inventory mismatch reported at warehouse 232,Logistics,2,2,Logistics
+Calibration overdue for instrument 172,Calibration,0,0,Calibration
+Biological contamination reported in lab 358,Contamination,1,1,Contamination
+Motor failure in unit 997,Motor,3,3,Motor
+Irregular production flow at station 583,Production,6,6,Production
+Material outside specification detected in 846,Specification,8,8,Specification
+Inconsistent pressure readings in valve 885,Pressure,5,5,Pressure
+Material outside specification detected in 706,Specification,8,8,Specification
+Incorrect shipment logged for delivery 979,Logistics,2,2,Logistics
+Pressure system malfunction at node 633,Pressure,5,5,Pressure
+Contaminated material detected in lot 742,Contamination,1,1,Contamination
+Calibration overdue for instrument 936,Calibration,0,0,Calibration
+Calibration error detected in device 219,Calibration,0,0,Calibration
+Biological contamination reported in lab 350,Contamination,1,1,Contamination
+Operator failed to document action in batch 732,Operator,4,4,Operator
+Operator failed to document action in batch 805,Operator,4,4,Operator
+Material outside specification detected in 251,Specification,8,8,Specification
+Production delay in shift 798,Production,6,6,Production
+Calibration overdue for instrument 559,Calibration,0,0,Calibration
+Operator failed to document action in batch 528,Operator,4,4,Operator
+System crash during data logging 801,System,9,9,System
+Irregular production flow at station 186,Production,6,6,Production
+Inventory mismatch reported at warehouse 915,Logistics,2,2,Logistics
+Manual override by operator caused error in 682,Operator,4,4,Operator
+Pressure dropped below threshold in chamber 801,Pressure,5,5,Pressure
+Incorrect calibration values on test 59,Calibration,0,0,Calibration
+Sensor data not recorded for line 12,Sensor,7,7,Sensor
+Unexpected particles found in batch 465,Contamination,1,1,Contamination
+System diagnostics failed at stage 746,System,9,9,System
+Software error in automated control system 203,System,9,9,System
+Inconsistent pressure readings in valve 119,Pressure,5,5,Pressure
+Motor overheating issue reported at 64,Motor,3,3,Motor
+Sensor data not recorded for line 704,Sensor,7,7,Sensor
+Biological contamination reported in lab 128,Contamination,1,1,Contamination
+System diagnostics failed at stage 920,System,9,9,System
+Incorrect shipment logged for delivery 309,Logistics,2,2,Logistics
+Unexpected motor shutdown on machine 195,Motor,3,3,Motor
+Incorrect shipment logged for delivery 189,Logistics,2,2,Logistics
+Motor overheating issue reported at 41,Motor,3,3,Motor
+Unexpected sensor spike in process 862,Sensor,7,7,Sensor
+Biological contamination reported in lab 741,Contamination,1,1,Contamination
+Biological contamination reported in lab 713,Contamination,1,1,Contamination
+Irregular production flow at station 571,Production,6,6,Production
+Motor failure in unit 154,Motor,3,3,Motor
+Production halted due to jam on line 801,Production,6,6,Production
+Pressure dropped below threshold in chamber 514,Pressure,5,5,Pressure
+Inventory mismatch reported at warehouse 936,Logistics,2,2,Logistics
+Contaminated material detected in lot 978,Contamination,1,1,Contamination
+Inventory mismatch reported at warehouse 262,Logistics,2,2,Logistics
+Incorrect calibration values on test 218,Calibration,0,0,Calibration
+Inventory mismatch reported at warehouse 746,Logistics,2,2,Logistics
+Incorrect calibration values on test 725,Calibration,0,0,Calibration
+Inconsistent pressure readings in valve 323,Pressure,5,5,Pressure
+Unexpected particles found in batch 153,Contamination,1,1,Contamination
+Temperature sensor failed during batch 835,Sensor,7,7,Sensor
+Delay in raw material delivery 826,Logistics,2,2,Logistics
+Unexpected sensor spike in process 234,Sensor,7,7,Sensor
+Unexpected sensor spike in process 797,Sensor,7,7,Sensor
+Irregular production flow at station 214,Production,6,6,Production
+System diagnostics failed at stage 63,System,9,9,System
+Production delay in shift 351,Production,6,6,Production
+Inconsistent pressure readings in valve 603,Pressure,5,5,Pressure
+Pressure system malfunction at node 150,Pressure,5,5,Pressure
+Manual override by operator caused error in 228,Operator,4,4,Operator
+Manual override by operator caused error in 360,Operator,4,4,Operator
+Unexpected motor shutdown on machine 464,Motor,3,3,Motor
+Irregular production flow at station 231,Production,6,6,Production
+Calibration error detected in device 106,Calibration,0,0,Calibration
+Irregular production flow at station 292,Production,6,6,Production
+Production halted due to jam on line 474,Production,6,6,Production
+Pressure dropped below threshold in chamber 895,Pressure,5,5,Pressure
+Pressure dropped below threshold in chamber 294,Pressure,5,5,Pressure
+Motor failure in unit 417,Motor,3,3,Motor
+Material outside specification detected in 191,Specification,8,8,Specification
+Operator missed critical step in process 870,Operator,4,4,Operator
+Delay in raw material delivery 860,Logistics,2,2,Logistics
+Calibration error detected in device 552,Calibration,0,0,Calibration
+Manual override by operator caused error in 913,Operator,4,4,Operator
+Contaminated material detected in lot 207,Contamination,1,1,Contamination
+Material outside specification detected in 629,Specification,8,8,Specification
+System diagnostics failed at stage 613,System,9,9,System
+Incorrect shipment logged for delivery 274,Logistics,2,2,Logistics
+Motor overheating issue reported at 550,Motor,3,3,Motor
+Production halted due to jam on line 527,Production,6,6,Production
+Calibration error detected in device 996,Calibration,0,0,Calibration
+System crash during data logging 93,System,9,9,System
+Inconsistent pressure readings in valve 200,Pressure,5,5,Pressure
+Contaminated material detected in lot 624,Contamination,1,1,Contamination
+Deviation from specification recorded in batch 28,Specification,8,8,Specification
+Inventory mismatch reported at warehouse 872,Logistics,2,2,Logistics
+Operator missed critical step in process 43,Operator,4,4,Operator
+System crash during data logging 678,System,9,9,System
+Irregular production flow at station 306,Production,6,6,Production
+Inventory mismatch reported at warehouse 774,Logistics,2,2,Logistics
+Motor failure in unit 282,Motor,3,3,Motor
+Operator missed critical step in process 304,Operator,4,4,Operator
+Unexpected particles found in batch 586,Contamination,1,1,Contamination
+Incorrect calibration values on test 863,Calibration,0,0,Calibration
+Delay in raw material delivery 900,Logistics,2,2,Logistics
+Unexpected sensor spike in process 473,Sensor,7,7,Sensor
+Incorrect shipment logged for delivery 663,Logistics,2,2,Logistics
+Deviation from specification recorded in batch 864,Specification,8,8,Specification
+Production halted due to jam on line 742,Production,6,6,Production
+Specification limits breached at point 122,Specification,8,8,Specification
+Material outside specification detected in 228,Specification,8,8,Specification
+Inventory mismatch reported at warehouse 947,Logistics,2,2,Logistics
+Deviation from specification recorded in batch 274,Specification,8,8,Specification
+Inconsistent pressure readings in valve 331,Pressure,5,5,Pressure
+Manual override by operator caused error in 339,Operator,4,4,Operator
+Sensor data not recorded for line 629,Sensor,7,7,Sensor
+Pressure system malfunction at node 749,Pressure,5,5,Pressure
+Unexpected particles found in batch 749,Contamination,1,1,Contamination
+Production halted due to jam on line 654,Production,6,6,Production
+Incorrect shipment logged for delivery 573,Logistics,2,2,Logistics
+Operator missed critical step in process 767,Operator,4,4,Operator
+Software error in automated control system 316,System,9,9,System
+Pressure dropped below threshold in chamber 786,Pressure,5,5,Pressure
+Production halted due to jam on line 927,Production,6,6,Production
+Irregular production flow at station 83,Production,6,6,Production
+Incorrect calibration values on test 862,Calibration,0,0,Calibration
+Operator missed critical step in process 686,Operator,4,4,Operator
+Specification limits breached at point 348,Specification,8,8,Specification
+Manual override by operator caused error in 300,Operator,4,4,Operator
+Temperature sensor failed during batch 979,Sensor,7,7,Sensor
+System diagnostics failed at stage 694,System,9,9,System
+Specification limits breached at point 468,Specification,8,8,Specification
+Operator failed to document action in batch 330,Operator,4,4,Operator
+System diagnostics failed at stage 464,System,9,9,System
+Material outside specification detected in 484,Specification,8,8,Specification
+Unexpected sensor spike in process 967,Sensor,7,7,Sensor
+Pressure system malfunction at node 158,Pressure,5,5,Pressure
+System diagnostics failed at stage 635,System,9,9,System
+Production delay in shift 551,Production,6,6,Production
+Unexpected motor shutdown on machine 897,Motor,3,3,Motor
+Unexpected sensor spike in process 289,Sensor,7,7,Sensor
+Incorrect calibration values on test 663,Calibration,0,0,Calibration
+Material outside specification detected in 862,Specification,8,8,Specification
+Unexpected sensor spike in process 685,Sensor,7,7,Sensor
+Deviation from specification recorded in batch 218,Specification,8,8,Specification
+Software error in automated control system 544,System,9,9,System
+Irregular production flow at station 997,Production,6,6,Production
+Unexpected sensor spike in process 565,Sensor,7,7,Sensor
+Irregular production flow at station 423,Production,6,6,Production
+Contaminated material detected in lot 812,Contamination,1,1,Contamination
+Production halted due to jam on line 682,Production,6,6,Production
+Specification limits breached at point 885,Specification,8,8,Specification
+Pressure dropped below threshold in chamber 446,Pressure,5,5,Pressure
+Pressure dropped below threshold in chamber 539,Pressure,5,5,Pressure
+System diagnostics failed at stage 785,System,9,9,System
+Contaminated material detected in lot 276,Contamination,1,1,Contamination
+Inventory mismatch reported at warehouse 882,Logistics,2,2,Logistics
+Pressure dropped below threshold in chamber 979,Pressure,5,5,Pressure
+Motor overheating issue reported at 445,Motor,3,3,Motor
+Temperature sensor failed during batch 828,Sensor,7,7,Sensor
+Production delay in shift 317,Production,6,6,Production
+Inconsistent pressure readings in valve 64,Pressure,5,5,Pressure
+Incorrect calibration values on test 600,Calibration,0,0,Calibration
+Incorrect calibration values on test 943,Calibration,0,0,Calibration
+Production delay in shift 295,Production,6,6,Production
+Calibration error detected in device 439,Calibration,0,0,Calibration
+Temperature sensor failed during batch 839,Sensor,7,7,Sensor
+Motor overheating issue reported at 19,Motor,3,3,Motor
+Sensor data not recorded for line 581,Sensor,7,7,Sensor
+Incorrect shipment logged for delivery 399,Logistics,2,2,Logistics
+Incorrect calibration values on test 960,Calibration,0,0,Calibration
+Manual override by operator caused error in 745,Operator,4,4,Operator
+Temperature sensor failed during batch 895,Sensor,7,7,Sensor
+Unexpected motor shutdown on machine 593,Motor,3,3,Motor
+Temperature sensor failed during batch 601,Sensor,7,7,Sensor
+Specification limits breached at point 747,Specification,8,8,Specification
+Sensor data not recorded for line 300,Sensor,7,7,Sensor
+Biological contamination reported in lab 850,Contamination,1,1,Contamination
+System crash during data logging 838,System,9,9,System
+Production halted due to jam on line 625,Production,6,6,Production
+Specification limits breached at point 725,Specification,8,8,Specification
+Delay in raw material delivery 655,Logistics,2,2,Logistics
+Inconsistent pressure readings in valve 104,Pressure,5,5,Pressure
+Motor failure in unit 589,Motor,3,3,Motor
+Pressure system malfunction at node 752,Pressure,5,5,Pressure
+Motor overheating issue reported at 94,Motor,3,3,Motor
+Incorrect shipment logged for delivery 224,Logistics,2,2,Logistics
+Sensor data not recorded for line 104,Sensor,7,7,Sensor
+Operator failed to document action in batch 719,Operator,4,4,Operator
+Calibration overdue for instrument 249,Calibration,0,0,Calibration
+Production delay in shift 660,Production,6,6,Production
+Inventory mismatch reported at warehouse 87,Logistics,2,2,Logistics
+Incorrect calibration values on test 34,Calibration,0,0,Calibration
+Sensor data not recorded for line 986,Sensor,7,7,Sensor
+Deviation from specification recorded in batch 944,Specification,8,8,Specification
+Incorrect shipment logged for delivery 275,Logistics,2,2,Logistics
+Temperature sensor failed during batch 785,Sensor,7,7,Sensor
+Irregular production flow at station 903,Production,6,6,Production
+Unexpected motor shutdown on machine 360,Motor,3,3,Motor
+Temperature sensor failed during batch 426,Sensor,7,7,Sensor
+Manual override by operator caused error in 907,Operator,4,4,Operator
+Sensor data not recorded for line 531,Sensor,7,7,Sensor
+Incorrect shipment logged for delivery 532,Logistics,2,2,Logistics
+Temperature sensor failed during batch 52,Sensor,7,7,Sensor
+Delay in raw material delivery 323,Logistics,2,2,Logistics
+Operator failed to document action in batch 75,Operator,4,4,Operator
+Production delay in shift 63,Production,6,6,Production
+Incorrect calibration values on test 832,Calibration,0,0,Calibration
+Pressure system malfunction at node 952,Pressure,5,5,Pressure
+Calibration overdue for instrument 834,Calibration,0,0,Calibration
+Biological contamination reported in lab 704,Contamination,1,1,Contamination
+Inventory mismatch reported at warehouse 334,Logistics,2,2,Logistics
+Incorrect shipment logged for delivery 945,Logistics,2,2,Logistics
+Pressure system malfunction at node 174,Pressure,5,5,Pressure
+Pressure system malfunction at node 818,Pressure,5,5,Pressure
+Incorrect shipment logged for delivery 399,Logistics,2,2,Logistics
+Production delay in shift 621,Production,6,6,Production
+Manual override by operator caused error in 170,Operator,4,4,Operator
+Incorrect shipment logged for delivery 26,Logistics,2,2,Logistics
+Unexpected sensor spike in process 533,Sensor,7,7,Sensor
+Biological contamination reported in lab 921,Contamination,1,1,Contamination
+Unexpected sensor spike in process 596,Sensor,7,7,Sensor
+Inconsistent pressure readings in valve 532,Pressure,5,5,Pressure
+Operator failed to document action in batch 114,Operator,4,4,Operator
+Inventory mismatch reported at warehouse 916,Logistics,2,2,Logistics
+Calibration overdue for instrument 900,Calibration,0,0,Calibration
+Operator missed critical step in process 254,Operator,4,4,Operator
+Sensor data not recorded for line 666,Sensor,7,7,Sensor
+Temperature sensor failed during batch 81,Sensor,7,7,Sensor
+Pressure dropped below threshold in chamber 985,Pressure,5,5,Pressure
+Specification limits breached at point 555,Specification,8,8,Specification
+Calibration overdue for instrument 382,Calibration,0,0,Calibration
+Deviation from specification recorded in batch 871,Specification,8,8,Specification
+Incorrect shipment logged for delivery 208,Logistics,2,2,Logistics
+Specification limits breached at point 244,Specification,8,8,Specification
+Pressure dropped below threshold in chamber 402,Pressure,5,5,Pressure
+Deviation from specification recorded in batch 242,Specification,8,8,Specification
+Material outside specification detected in 288,Specification,8,8,Specification
+Unexpected sensor spike in process 721,Sensor,7,7,Sensor
+Material outside specification detected in 552,Specification,8,8,Specification
+Inventory mismatch reported at warehouse 545,Logistics,2,2,Logistics
+Incorrect shipment logged for delivery 487,Logistics,2,2,Logistics
+System diagnostics failed at stage 764,System,9,9,System
+Unexpected particles found in batch 890,Contamination,1,1,Contamination
+Incorrect shipment logged for delivery 653,Logistics,2,2,Logistics
+Motor failure in unit 606,Motor,3,3,Motor
+Delay in raw material delivery 368,Logistics,2,2,Logistics
+Operator missed critical step in process 674,Operator,4,4,Operator
+Unexpected motor shutdown on machine 901,Motor,3,3,Motor
+Contaminated material detected in lot 122,Contamination,1,1,Contamination
+Temperature sensor failed during batch 205,Sensor,7,7,Sensor
+Incorrect calibration values on test 24,Calibration,0,0,Calibration
+Deviation from specification recorded in batch 628,Specification,8,8,Specification
+Sensor data not recorded for line 537,Sensor,7,7,Sensor
+Biological contamination reported in lab 454,Contamination,1,1,Contamination
+Contaminated material detected in lot 840,Contamination,1,1,Contamination
+Incorrect shipment logged for delivery 689,Logistics,2,2,Logistics
+Calibration error detected in device 943,Calibration,0,0,Calibration
+Motor failure in unit 307,Motor,3,3,Motor
+Biological contamination reported in lab 252,Contamination,1,1,Contamination
+Unexpected sensor spike in process 350,Sensor,7,7,Sensor
+Material outside specification detected in 330,Specification,8,8,Specification
+Material outside specification detected in 200,Specification,8,8,Specification
+Incorrect shipment logged for delivery 223,Logistics,2,2,Logistics
+Unexpected motor shutdown on machine 293,Motor,3,3,Motor
+Motor failure in unit 189,Motor,3,3,Motor
+Calibration error detected in device 78,Calibration,0,0,Calibration
+Production delay in shift 526,Production,6,6,Production
+Sensor data not recorded for line 380,Sensor,7,7,Sensor
+Pressure dropped below threshold in chamber 297,Pressure,5,5,Pressure
+Incorrect calibration values on test 790,Calibration,0,0,Calibration
+Unexpected particles found in batch 145,Contamination,1,1,Contamination
+Sensor data not recorded for line 199,Sensor,7,7,Sensor
+Calibration error detected in device 940,Calibration,0,0,Calibration
+Specification limits breached at point 324,Specification,8,8,Specification
+Operator missed critical step in process 911,Operator,4,4,Operator
+Biological contamination reported in lab 671,Contamination,1,1,Contamination
+Motor overheating issue reported at 229,Motor,3,3,Motor
+Sensor data not recorded for line 322,Sensor,7,7,Sensor
+Operator missed critical step in process 50,Operator,4,4,Operator
+Unexpected particles found in batch 319,Contamination,1,1,Contamination
+Inconsistent pressure readings in valve 945,Pressure,5,5,Pressure
+Pressure system malfunction at node 828,Pressure,5,5,Pressure
+Operator missed critical step in process 55,Operator,4,4,Operator
+Production halted due to jam on line 645,Production,6,6,Production
+Unexpected sensor spike in process 385,Sensor,7,7,Sensor
+Production halted due to jam on line 787,Production,6,6,Production
+Incorrect shipment logged for delivery 103,Logistics,2,2,Logistics
+Biological contamination reported in lab 292,Contamination,1,1,Contamination
+Specification limits breached at point 410,Specification,8,8,Specification
+Delay in raw material delivery 289,Logistics,2,2,Logistics
+Production delay in shift 814,Production,6,6,Production
+Sensor data not recorded for line 804,Sensor,7,7,Sensor
+Incorrect calibration values on test 337,Calibration,0,0,Calibration
+Sensor data not recorded for line 199,Sensor,7,7,Sensor
+Inconsistent pressure readings in valve 626,Pressure,5,5,Pressure
+Incorrect calibration values on test 740,Calibration,0,0,Calibration
+Unexpected particles found in batch 715,Contamination,1,1,Contamination
+Biological contamination reported in lab 630,Contamination,1,1,Contamination
+Software error in automated control system 401,System,9,9,System
+Incorrect calibration values on test 740,Calibration,0,0,Calibration
+Temperature sensor failed during batch 698,Sensor,7,7,Sensor
+Sensor data not recorded for line 705,Sensor,7,7,Sensor
+Operator missed critical step in process 672,Operator,4,4,Operator
+Production delay in shift 164,Production,6,6,Production
+Calibration error detected in device 230,Calibration,0,0,Calibration
+Material outside specification detected in 855,Specification,8,8,Specification
+Operator failed to document action in batch 495,Operator,4,4,Operator
+Biological contamination reported in lab 710,Contamination,1,1,Contamination
+Motor overheating issue reported at 562,Motor,3,3,Motor
+Manual override by operator caused error in 720,Operator,4,4,Operator
+Delay in raw material delivery 81,Logistics,2,2,Logistics
+Production delay in shift 520,Production,6,6,Production
+Inconsistent pressure readings in valve 230,Pressure,5,5,Pressure
+Delay in raw material delivery 654,Logistics,2,2,Logistics
+Temperature sensor failed during batch 568,Sensor,7,7,Sensor
+Unexpected motor shutdown on machine 818,Motor,3,3,Motor
+Biological contamination reported in lab 618,Contamination,1,1,Contamination
+Production halted due to jam on line 286,Production,6,6,Production
+Material outside specification detected in 202,Specification,8,8,Specification
+Delay in raw material delivery 294,Logistics,2,2,Logistics
+Pressure system malfunction at node 508,Pressure,5,5,Pressure
+Pressure dropped below threshold in chamber 799,Pressure,5,5,Pressure
+Inventory mismatch reported at warehouse 773,Logistics,2,2,Logistics
+Material outside specification detected in 193,Specification,8,8,Specification
+Inconsistent pressure readings in valve 600,Pressure,5,5,Pressure
+Pressure dropped below threshold in chamber 576,Pressure,5,5,Pressure
+Motor overheating issue reported at 295,Motor,3,3,Motor
+Motor failure in unit 702,Motor,3,3,Motor
+Pressure dropped below threshold in chamber 120,Pressure,5,5,Pressure
+Unexpected motor shutdown on machine 855,Motor,3,3,Motor
+Operator missed critical step in process 682,Operator,4,4,Operator
+Contaminated material detected in lot 351,Contamination,1,1,Contamination
+System crash during data logging 811,System,9,9,System
+Deviation from specification recorded in batch 895,Specification,8,8,Specification
+Operator failed to document action in batch 477,Operator,4,4,Operator
+Operator missed critical step in process 884,Operator,4,4,Operator
+Irregular production flow at station 924,Production,6,6,Production
+Unexpected motor shutdown on machine 950,Motor,3,3,Motor
+Biological contamination reported in lab 907,Contamination,1,1,Contamination
+Delay in raw material delivery 605,Logistics,2,2,Logistics
+Production halted due to jam on line 620,Production,6,6,Production
+Motor failure in unit 835,Motor,3,3,Motor
+Sensor data not recorded for line 579,Sensor,7,7,Sensor
+Delay in raw material delivery 734,Logistics,2,2,Logistics
+Calibration overdue for instrument 527,Calibration,0,0,Calibration
+Motor overheating issue reported at 963,Motor,3,3,Motor
+Operator missed critical step in process 888,Operator,4,4,Operator
+Specification limits breached at point 844,Specification,8,8,Specification
+Temperature sensor failed during batch 141,Sensor,7,7,Sensor
+Unexpected motor shutdown on machine 10,Motor,3,3,Motor
+Biological contamination reported in lab 178,Contamination,1,1,Contamination
+Sensor data not recorded for line 421,Sensor,7,7,Sensor
+Motor overheating issue reported at 835,Motor,3,3,Motor
+Production delay in shift 782,Production,6,6,Production
+System crash during data logging 967,System,9,9,System
+Material outside specification detected in 967,Specification,8,8,Specification
+Material outside specification detected in 151,Specification,8,8,Specification
+Incorrect shipment logged for delivery 842,Logistics,2,2,Logistics
+Irregular production flow at station 964,Production,6,6,Production
+Biological contamination reported in lab 827,Contamination,1,1,Contamination
+Sensor data not recorded for line 543,Sensor,7,7,Sensor
+Irregular production flow at station 529,Production,6,6,Production
+Deviation from specification recorded in batch 454,Specification,8,8,Specification
+Motor overheating issue reported at 756,Motor,3,3,Motor
+Unexpected particles found in batch 385,Contamination,1,1,Contamination
+Biological contamination reported in lab 173,Contamination,1,1,Contamination
+Calibration error detected in device 946,Calibration,0,0,Calibration
+Material outside specification detected in 84,Specification,8,8,Specification
+Incorrect shipment logged for delivery 878,Logistics,2,2,Logistics
+Unexpected particles found in batch 904,Contamination,1,1,Contamination
+Unexpected motor shutdown on machine 104,Motor,3,3,Motor
+Delay in raw material delivery 556,Logistics,2,2,Logistics
+Calibration overdue for instrument 259,Calibration,0,0,Calibration
+Production delay in shift 764,Production,6,6,Production
+Temperature sensor failed during batch 449,Sensor,7,7,Sensor
+Incorrect shipment logged for delivery 272,Logistics,2,2,Logistics
+Motor failure in unit 835,Motor,3,3,Motor
+Pressure system malfunction at node 713,Pressure,5,5,Pressure
+Production halted due to jam on line 361,Production,6,6,Production
+Calibration error detected in device 628,Calibration,0,0,Calibration
+Pressure system malfunction at node 862,Pressure,5,5,Pressure
+Production halted due to jam on line 523,Production,6,6,Production
+Sensor data not recorded for line 97,Sensor,7,7,Sensor
+Delay in raw material delivery 522,Logistics,2,2,Logistics
+Calibration overdue for instrument 475,Calibration,0,0,Calibration
+Production delay in shift 528,Production,6,6,Production
+Calibration error detected in device 760,Calibration,0,0,Calibration
+System diagnostics failed at stage 659,System,9,9,System
+Incorrect shipment logged for delivery 121,Logistics,2,2,Logistics
+Irregular production flow at station 703,Production,6,6,Production
+Specification limits breached at point 510,Specification,8,8,Specification
+Deviation from specification recorded in batch 310,Specification,8,8,Specification
+Pressure dropped below threshold in chamber 244,Pressure,5,5,Pressure
+Operator failed to document action in batch 546,Operator,4,4,Operator
+Production delay in shift 379,Production,6,6,Production
+Delay in raw material delivery 356,Logistics,2,2,Logistics
+Motor failure in unit 866,Motor,3,3,Motor
+Inconsistent pressure readings in valve 474,Pressure,5,5,Pressure
+Temperature sensor failed during batch 531,Sensor,7,7,Sensor
+Manual override by operator caused error in 56,Operator,4,4,Operator
+Unexpected sensor spike in process 906,Sensor,7,7,Sensor
+Irregular production flow at station 645,Production,6,6,Production
+Unexpected particles found in batch 499,Contamination,1,1,Contamination
+Pressure system malfunction at node 275,Pressure,5,5,Pressure
+Unexpected motor shutdown on machine 172,Motor,3,3,Motor
+Calibration error detected in device 938,Calibration,0,0,Calibration
+Biological contamination reported in lab 524,Contamination,1,1,Contamination
+Software error in automated control system 213,System,9,9,System
+Biological contamination reported in lab 253,Contamination,1,1,Contamination
+Production halted due to jam on line 137,Production,6,6,Production
+Delay in raw material delivery 636,Logistics,2,2,Logistics
+Contaminated material detected in lot 846,Contamination,1,1,Contamination
+Manual override by operator caused error in 523,Operator,4,4,Operator
+Production delay in shift 66,Production,6,6,Production
+Inventory mismatch reported at warehouse 253,Logistics,2,2,Logistics
+Pressure dropped below threshold in chamber 469,Pressure,5,5,Pressure
+Deviation from specification recorded in batch 906,Specification,8,8,Specification
+Specification limits breached at point 410,Specification,8,8,Specification
+Calibration error detected in device 290,Calibration,0,0,Calibration
+Inconsistent pressure readings in valve 603,Pressure,5,5,Pressure
+Calibration error detected in device 692,Calibration,0,0,Calibration
+Software error in automated control system 753,System,9,9,System
+Material outside specification detected in 736,Specification,8,8,Specification
+Delay in raw material delivery 463,Logistics,2,2,Logistics
+System crash during data logging 206,System,9,9,System
+Pressure dropped below threshold in chamber 366,Pressure,5,5,Pressure
+Unexpected sensor spike in process 165,Sensor,7,7,Sensor
+Motor failure in unit 130,Motor,3,3,Motor
+Production delay in shift 998,Production,6,6,Production
+Specification limits breached at point 252,Specification,8,8,Specification
+System crash during data logging 903,System,9,9,System
+Production delay in shift 921,Production,6,6,Production
+Deviation from specification recorded in batch 782,Specification,8,8,Specification
+Operator missed critical step in process 936,Operator,4,4,Operator
+Motor failure in unit 465,Motor,3,3,Motor
+Temperature sensor failed during batch 974,Sensor,7,7,Sensor
+Unexpected motor shutdown on machine 260,Motor,3,3,Motor
+Production delay in shift 503,Production,6,6,Production
+Operator missed critical step in process 795,Operator,4,4,Operator
+Inventory mismatch reported at warehouse 487,Logistics,2,2,Logistics
+Motor overheating issue reported at 525,Motor,3,3,Motor
+Production delay in shift 687,Production,6,6,Production
+Operator failed to document action in batch 859,Operator,4,4,Operator
+System diagnostics failed at stage 899,System,9,9,System
+Specification limits breached at point 875,Specification,8,8,Specification
+Unexpected motor shutdown on machine 637,Motor,3,3,Motor
+Production delay in shift 50,Production,6,6,Production
+Incorrect shipment logged for delivery 509,Logistics,2,2,Logistics
+Unexpected sensor spike in process 75,Sensor,7,7,Sensor
+Pressure system malfunction at node 172,Pressure,5,5,Pressure
+Contaminated material detected in lot 394,Contamination,1,1,Contamination
+Incorrect calibration values on test 343,Calibration,0,0,Calibration
+Specification limits breached at point 680,Specification,8,8,Specification
+Manual override by operator caused error in 555,Operator,4,4,Operator
+Sensor data not recorded for line 177,Sensor,7,7,Sensor
+Unexpected motor shutdown on machine 790,Motor,3,3,Motor
+Contaminated material detected in lot 774,Contamination,1,1,Contamination
+Temperature sensor failed during batch 739,Sensor,7,7,Sensor
+Delay in raw material delivery 656,Logistics,2,2,Logistics
+Motor failure in unit 848,Motor,3,3,Motor
+Delay in raw material delivery 22,Logistics,2,2,Logistics
+Contaminated material detected in lot 267,Contamination,1,1,Contamination
+Deviation from specification recorded in batch 799,Specification,8,8,Specification
+Unexpected sensor spike in process 310,Sensor,7,7,Sensor
+Unexpected particles found in batch 183,Contamination,1,1,Contamination
+Calibration error detected in device 292,Calibration,0,0,Calibration
+Motor overheating issue reported at 844,Motor,3,3,Motor
+Operator failed to document action in batch 193,Operator,4,4,Operator
+Material outside specification detected in 158,Specification,8,8,Specification
+Incorrect shipment logged for delivery 264,Logistics,2,2,Logistics
+Software error in automated control system 178,System,9,9,System
+Pressure system malfunction at node 526,Pressure,5,5,Pressure
+Biological contamination reported in lab 825,Contamination,1,1,Contamination
+Delay in raw material delivery 107,Logistics,2,2,Logistics
+Sensor data not recorded for line 847,Sensor,7,7,Sensor
+Motor failure in unit 806,Motor,3,3,Motor
+Inconsistent pressure readings in valve 722,Pressure,5,5,Pressure
+Unexpected sensor spike in process 845,Sensor,7,7,Sensor
+Sensor data not recorded for line 966,Sensor,7,7,Sensor
+Sensor data not recorded for line 985,Sensor,7,7,Sensor
+Pressure system malfunction at node 127,Pressure,5,5,Pressure
+System diagnostics failed at stage 317,System,9,9,System
+Inconsistent pressure readings in valve 313,Pressure,5,5,Pressure
+Calibration error detected in device 309,Calibration,0,0,Calibration
+Pressure dropped below threshold in chamber 810,Pressure,5,5,Pressure
+Motor overheating issue reported at 285,Motor,3,3,Motor
+Irregular production flow at station 66,Production,6,6,Production
+Unexpected motor shutdown on machine 892,Motor,3,3,Motor
+Irregular production flow at station 984,Production,6,6,Production
+Pressure system malfunction at node 805,Pressure,5,5,Pressure
+Temperature sensor failed during batch 59,Sensor,7,7,Sensor
+Deviation from specification recorded in batch 209,Specification,8,8,Specification
+Incorrect calibration values on test 438,Calibration,0,0,Calibration
+System crash during data logging 387,System,9,9,System
+Temperature sensor failed during batch 97,Sensor,7,7,Sensor
+Incorrect calibration values on test 26,Calibration,0,0,Calibration
+Sensor data not recorded for line 234,Sensor,7,7,Sensor
+Operator failed to document action in batch 414,Operator,4,4,Operator
+Incorrect shipment logged for delivery 275,Logistics,2,2,Logistics
+Inventory mismatch reported at warehouse 845,Logistics,2,2,Logistics
+System diagnostics failed at stage 505,System,9,9,System
+Contaminated material detected in lot 572,Contamination,1,1,Contamination
+System diagnostics failed at stage 186,System,9,9,System
+Unexpected sensor spike in process 300,Sensor,7,7,Sensor
+Contaminated material detected in lot 622,Contamination,1,1,Contamination
+Motor failure in unit 388,Motor,3,3,Motor
+Incorrect calibration values on test 831,Calibration,0,0,Calibration
+Inconsistent pressure readings in valve 950,Pressure,5,5,Pressure
+Calibration error detected in device 921,Calibration,0,0,Calibration
+Delay in raw material delivery 806,Logistics,2,2,Logistics
+Manual override by operator caused error in 186,Operator,4,4,Operator
+Software error in automated control system 686,System,9,9,System
+Material outside specification detected in 523,Specification,8,8,Specification
+Temperature sensor failed during batch 613,Sensor,7,7,Sensor
+Unexpected particles found in batch 679,Contamination,1,1,Contamination
+Inventory mismatch reported at warehouse 420,Logistics,2,2,Logistics
+Operator failed to document action in batch 866,Operator,4,4,Operator
+Sensor data not recorded for line 323,Sensor,7,7,Sensor
+Delay in raw material delivery 661,Logistics,2,2,Logistics
+Motor failure in unit 234,Motor,3,3,Motor
+Unexpected sensor spike in process 588,Sensor,7,7,Sensor
+Incorrect shipment logged for delivery 96,Logistics,2,2,Logistics
+Material outside specification detected in 573,Specification,8,8,Specification
+Temperature sensor failed during batch 349,Sensor,7,7,Sensor
+System crash during data logging 873,System,9,9,System
+System diagnostics failed at stage 457,System,9,9,System
+Motor overheating issue reported at 778,Motor,3,3,Motor
+Inconsistent pressure readings in valve 975,Pressure,5,5,Pressure
+Unexpected particles found in batch 470,Contamination,1,1,Contamination
+Software error in automated control system 521,System,9,9,System
+Inventory mismatch reported at warehouse 332,Logistics,2,2,Logistics
+Operator missed critical step in process 233,Operator,4,4,Operator
+Calibration overdue for instrument 593,Calibration,0,0,Calibration
+Deviation from specification recorded in batch 108,Specification,8,8,Specification
+Unexpected motor shutdown on machine 419,Motor,3,3,Motor
+Pressure dropped below threshold in chamber 553,Pressure,5,5,Pressure
+Calibration error detected in device 526,Calibration,0,0,Calibration
+Specification limits breached at point 29,Specification,8,8,Specification
+Incorrect shipment logged for delivery 921,Logistics,2,2,Logistics
+Production halted due to jam on line 831,Production,6,6,Production
+Deviation from specification recorded in batch 32,Specification,8,8,Specification
+Calibration overdue for instrument 924,Calibration,0,0,Calibration
+Material outside specification detected in 538,Specification,8,8,Specification
+System diagnostics failed at stage 879,System,9,9,System
+Biological contamination reported in lab 224,Contamination,1,1,Contamination
+Pressure system malfunction at node 178,Pressure,5,5,Pressure
+Calibration error detected in device 668,Calibration,0,0,Calibration
+Inconsistent pressure readings in valve 677,Pressure,5,5,Pressure
+Material outside specification detected in 705,Specification,8,8,Specification
+Production halted due to jam on line 302,Production,6,6,Production
+System crash during data logging 530,System,9,9,System
+Operator failed to document action in batch 739,Operator,4,4,Operator
+Inconsistent pressure readings in valve 211,Pressure,5,5,Pressure
+Biological contamination reported in lab 807,Contamination,1,1,Contamination
+Software error in automated control system 822,System,9,9,System
+Motor overheating issue reported at 681,Motor,3,3,Motor
+Pressure system malfunction at node 104,Pressure,5,5,Pressure
+Operator failed to document action in batch 328,Operator,4,4,Operator
+Incorrect shipment logged for delivery 688,Logistics,2,2,Logistics
+Unexpected sensor spike in process 792,Sensor,7,7,Sensor
+Operator missed critical step in process 556,Operator,4,4,Operator
+Material outside specification detected in 636,Specification,8,8,Specification
+Inventory mismatch reported at warehouse 162,Logistics,2,2,Logistics
+Production halted due to jam on line 388,Production,6,6,Production
+Production delay in shift 864,Production,6,6,Production
+Inconsistent pressure readings in valve 643,Pressure,5,5,Pressure
+Material outside specification detected in 99,Specification,8,8,Specification
+Contaminated material detected in lot 430,Contamination,1,1,Contamination
+Pressure system malfunction at node 553,Pressure,5,5,Pressure
+Software error in automated control system 2,System,9,9,System
+Delay in raw material delivery 286,Logistics,2,2,Logistics
+Unexpected sensor spike in process 544,Sensor,7,7,Sensor
+Unexpected particles found in batch 652,Contamination,1,1,Contamination
+Contaminated material detected in lot 307,Contamination,1,1,Contamination
+Delay in raw material delivery 409,Logistics,2,2,Logistics
+Incorrect shipment logged for delivery 280,Logistics,2,2,Logistics
+Calibration error detected in device 601,Calibration,0,0,Calibration
+Incorrect calibration values on test 508,Calibration,0,0,Calibration
+Unexpected sensor spike in process 390,Sensor,7,7,Sensor
+Operator failed to document action in batch 558,Operator,4,4,Operator
+Biological contamination reported in lab 503,Contamination,1,1,Contamination
+Calibration overdue for instrument 546,Calibration,0,0,Calibration
+Delay in raw material delivery 379,Logistics,2,2,Logistics
+Incorrect calibration values on test 875,Calibration,0,0,Calibration
+Inventory mismatch reported at warehouse 882,Logistics,2,2,Logistics
+Calibration overdue for instrument 399,Calibration,0,0,Calibration
+Specification limits breached at point 534,Specification,8,8,Specification
+Contaminated material detected in lot 76,Contamination,1,1,Contamination
+Calibration overdue for instrument 320,Calibration,0,0,Calibration
+Calibration overdue for instrument 467,Calibration,0,0,Calibration
+Operator failed to document action in batch 624,Operator,4,4,Operator
+System crash during data logging 674,System,9,9,System
+Specification limits breached at point 275,Specification,8,8,Specification
+Deviation from specification recorded in batch 473,Specification,8,8,Specification
+Unexpected motor shutdown on machine 38,Motor,3,3,Motor
+System crash during data logging 847,System,9,9,System
+Specification limits breached at point 22,Specification,8,8,Specification
+Inconsistent pressure readings in valve 591,Pressure,5,5,Pressure
+Operator missed critical step in process 563,Operator,4,4,Operator
+Motor failure in unit 141,Motor,3,3,Motor
+Operator failed to document action in batch 899,Operator,4,4,Operator
+System crash during data logging 689,System,9,9,System
+Specification limits breached at point 249,Specification,8,8,Specification
+Production delay in shift 961,Production,6,6,Production
+System crash during data logging 769,System,9,9,System
+Motor failure in unit 931,Motor,3,3,Motor
+Calibration overdue for instrument 848,Calibration,0,0,Calibration
+Material outside specification detected in 809,Specification,8,8,Specification
+Production halted due to jam on line 103,Production,6,6,Production
+Temperature sensor failed during batch 757,Sensor,7,7,Sensor
+Pressure system malfunction at node 344,Pressure,5,5,Pressure
+Material outside specification detected in 513,Specification,8,8,Specification
+Unexpected sensor spike in process 739,Sensor,7,7,Sensor
+Temperature sensor failed during batch 273,Sensor,7,7,Sensor
+Motor failure in unit 757,Motor,3,3,Motor
+System diagnostics failed at stage 91,System,9,9,System
+Production halted due to jam on line 676,Production,6,6,Production
+Deviation from specification recorded in batch 768,Specification,8,8,Specification
+Unexpected motor shutdown on machine 692,Motor,3,3,Motor
+Biological contamination reported in lab 729,Contamination,1,1,Contamination
+Incorrect shipment logged for delivery 391,Logistics,2,2,Logistics
+Calibration error detected in device 900,Calibration,0,0,Calibration
+Irregular production flow at station 174,Production,6,6,Production
+Unexpected particles found in batch 255,Contamination,1,1,Contamination
+Deviation from specification recorded in batch 402,Specification,8,8,Specification
+Operator missed critical step in process 737,Operator,4,4,Operator
+Production halted due to jam on line 561,Production,6,6,Production
+Production halted due to jam on line 951,Production,6,6,Production
+Motor overheating issue reported at 874,Motor,3,3,Motor
+Unexpected sensor spike in process 836,Sensor,7,7,Sensor
+Unexpected sensor spike in process 362,Sensor,7,7,Sensor
+Software error in automated control system 311,System,9,9,System
+Calibration error detected in device 125,Calibration,0,0,Calibration
+Operator failed to document action in batch 731,Operator,4,4,Operator
+Production halted due to jam on line 586,Production,6,6,Production
+Deviation from specification recorded in batch 819,Specification,8,8,Specification
+Calibration error detected in device 937,Calibration,0,0,Calibration
+Unexpected particles found in batch 461,Contamination,1,1,Contamination
+Contaminated material detected in lot 312,Contamination,1,1,Contamination
+Unexpected particles found in batch 231,Contamination,1,1,Contamination
+Pressure system malfunction at node 277,Pressure,5,5,Pressure
+Production delay in shift 119,Production,6,6,Production
+Pressure dropped below threshold in chamber 781,Pressure,5,5,Pressure
+Calibration overdue for instrument 790,Calibration,0,0,Calibration
+Contaminated material detected in lot 768,Contamination,1,1,Contamination
+Pressure system malfunction at node 405,Pressure,5,5,Pressure
+Unexpected motor shutdown on machine 485,Motor,3,3,Motor
+Contaminated material detected in lot 133,Contamination,1,1,Contamination
+Incorrect shipment logged for delivery 129,Logistics,2,2,Logistics
+Inconsistent pressure readings in valve 71,Pressure,5,5,Pressure
+Manual override by operator caused error in 887,Operator,4,4,Operator
+Motor failure in unit 964,Motor,3,3,Motor
+Irregular production flow at station 90,Production,6,6,Production
+Manual override by operator caused error in 919,Operator,4,4,Operator
+Production halted due to jam on line 98,Production,6,6,Production
+Inventory mismatch reported at warehouse 364,Logistics,2,2,Logistics
+Unexpected sensor spike in process 828,Sensor,7,7,Sensor
+System crash during data logging 877,System,9,9,System
+Material outside specification detected in 461,Specification,8,8,Specification
+Specification limits breached at point 264,Specification,8,8,Specification
+Inventory mismatch reported at warehouse 861,Logistics,2,2,Logistics
+Unexpected motor shutdown on machine 237,Motor,3,3,Motor
+Unexpected sensor spike in process 709,Sensor,7,7,Sensor
+Material outside specification detected in 406,Specification,8,8,Specification
+System crash during data logging 875,System,9,9,System
+Motor failure in unit 845,Motor,3,3,Motor
+Material outside specification detected in 169,Specification,8,8,Specification
+Pressure dropped below threshold in chamber 993,Pressure,5,5,Pressure
+Incorrect shipment logged for delivery 942,Logistics,2,2,Logistics
+Biological contamination reported in lab 864,Contamination,1,1,Contamination
+Unexpected sensor spike in process 643,Sensor,7,7,Sensor
+Unexpected particles found in batch 578,Contamination,1,1,Contamination
+Unexpected particles found in batch 502,Contamination,1,1,Contamination
+Incorrect calibration values on test 750,Calibration,0,0,Calibration
+Temperature sensor failed during batch 613,Sensor,7,7,Sensor
+Production delay in shift 16,Production,6,6,Production
+Motor overheating issue reported at 323,Motor,3,3,Motor
+Motor failure in unit 264,Motor,3,3,Motor
+Unexpected motor shutdown on machine 293,Motor,3,3,Motor
+Calibration overdue for instrument 94,Calibration,0,0,Calibration
+Temperature sensor failed during batch 914,Sensor,7,7,Sensor
+Motor overheating issue reported at 494,Motor,3,3,Motor
+Biological contamination reported in lab 94,Contamination,1,1,Contamination
+Production delay in shift 98,Production,6,6,Production
+Contaminated material detected in lot 219,Contamination,1,1,Contamination
+Calibration error detected in device 110,Calibration,0,0,Calibration
+Production delay in shift 559,Production,6,6,Production
+Unexpected sensor spike in process 961,Sensor,7,7,Sensor
+Delay in raw material delivery 305,Logistics,2,2,Logistics
+Temperature sensor failed during batch 440,Sensor,7,7,Sensor
+Operator missed critical step in process 581,Operator,4,4,Operator
+Software error in automated control system 886,System,9,9,System
+Sensor data not recorded for line 459,Sensor,7,7,Sensor
+Deviation from specification recorded in batch 146,Specification,8,8,Specification
+Inconsistent pressure readings in valve 559,Pressure,5,5,Pressure
+Deviation from specification recorded in batch 673,Specification,8,8,Specification
+Unexpected sensor spike in process 626,Sensor,7,7,Sensor
+Sensor data not recorded for line 438,Sensor,7,7,Sensor
+Sensor data not recorded for line 808,Sensor,7,7,Sensor
+System diagnostics failed at stage 961,System,9,9,System
+Motor overheating issue reported at 936,Motor,3,3,Motor
+Biological contamination reported in lab 74,Contamination,1,1,Contamination
+Inconsistent pressure readings in valve 56,Pressure,5,5,Pressure
+Delay in raw material delivery 958,Logistics,2,2,Logistics
+Sensor data not recorded for line 408,Sensor,7,7,Sensor
+System diagnostics failed at stage 180,System,9,9,System
+Motor failure in unit 522,Motor,3,3,Motor
+Calibration overdue for instrument 849,Calibration,0,0,Calibration
+Motor failure in unit 342,Motor,3,3,Motor
+Material outside specification detected in 982,Specification,8,8,Specification
+Calibration overdue for instrument 950,Calibration,0,0,Calibration
+Unexpected motor shutdown on machine 130,Motor,3,3,Motor
+Motor failure in unit 90,Motor,3,3,Motor
+Software error in automated control system 891,System,9,9,System
+Operator missed critical step in process 671,Operator,4,4,Operator
+Unexpected sensor spike in process 15,Sensor,7,7,Sensor
+Manual override by operator caused error in 110,Operator,4,4,Operator
+Production halted due to jam on line 363,Production,6,6,Production
+Motor failure in unit 661,Motor,3,3,Motor
+Calibration error detected in device 738,Calibration,0,0,Calibration
+Production halted due to jam on line 699,Production,6,6,Production
+Pressure dropped below threshold in chamber 165,Pressure,5,5,Pressure
+Calibration error detected in device 259,Calibration,0,0,Calibration
+System diagnostics failed at stage 124,System,9,9,System
+Pressure system malfunction at node 467,Pressure,5,5,Pressure
+System crash during data logging 786,System,9,9,System
+Calibration error detected in device 957,Calibration,0,0,Calibration
+Irregular production flow at station 914,Production,6,6,Production
+System crash during data logging 603,System,9,9,System
+Pressure dropped below threshold in chamber 253,Pressure,5,5,Pressure
+Temperature sensor failed during batch 685,Sensor,7,7,Sensor
+Inconsistent pressure readings in valve 428,Pressure,5,5,Pressure
+Temperature sensor failed during batch 335,Sensor,7,7,Sensor
+Inventory mismatch reported at warehouse 972,Logistics,2,2,Logistics
+Production halted due to jam on line 607,Production,6,6,Production
+Manual override by operator caused error in 616,Operator,4,4,Operator
+Pressure dropped below threshold in chamber 210,Pressure,5,5,Pressure
+Operator missed critical step in process 347,Operator,4,4,Operator
+Delay in raw material delivery 649,Logistics,2,2,Logistics
+Operator missed critical step in process 788,Operator,4,4,Operator
+Manual override by operator caused error in 135,Operator,4,4,Operator
+Motor failure in unit 74,Motor,3,3,Motor
+Material outside specification detected in 943,Specification,8,8,Specification
+Operator missed critical step in process 202,Operator,4,4,Operator
+Incorrect calibration values on test 104,Calibration,0,0,Calibration
+Deviation from specification recorded in batch 711,Specification,8,8,Specification
+Irregular production flow at station 16,Production,6,6,Production
+Biological contamination reported in lab 867,Contamination,1,1,Contamination
+Material outside specification detected in 802,Specification,8,8,Specification
+Unexpected particles found in batch 654,Contamination,1,1,Contamination
+Sensor data not recorded for line 390,Sensor,7,7,Sensor
+Operator missed critical step in process 266,Operator,4,4,Operator
+Specification limits breached at point 828,Specification,8,8,Specification
+Unexpected particles found in batch 584,Contamination,1,1,Contamination
+Production delay in shift 515,Production,6,6,Production
+Production delay in shift 798,Production,6,6,Production
+Sensor data not recorded for line 134,Sensor,7,7,Sensor
+Contaminated material detected in lot 457,Contamination,1,1,Contamination
+Production halted due to jam on line 58,Production,6,6,Production
